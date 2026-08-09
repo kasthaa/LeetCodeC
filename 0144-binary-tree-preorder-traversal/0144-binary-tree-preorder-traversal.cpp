@@ -1,25 +1,29 @@
  class Solution {
 public:
-
-    void preorder(TreeNode* node, vector<int>& ans) {
-        if (node == NULL)
-            return;
-
-        // Root
-        ans.push_back(node->val);
-
-        // Left
-        preorder(node->left, ans);
-
-        // Right
-        preorder(node->right, ans);
-    }
-
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> ans;
+        vector<int> preorder;
 
-        preorder(root, ans);
+        if (root == NULL)
+            return preorder;
 
-        return ans;
+        stack<TreeNode*> st;
+        st.push(root);
+
+        while (!st.empty()) {
+            TreeNode* node = st.top();
+            st.pop();
+
+            preorder.push_back(node->val);
+
+            // Right first because stack is LIFO
+            if (node->right != NULL)
+                st.push(node->right);
+
+            // Left second so that left is processed first
+            if (node->left != NULL)
+                st.push(node->left);
+        }
+
+        return preorder;
     }
 };
