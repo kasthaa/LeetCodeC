@@ -4,6 +4,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kasthaa/LeetCodeC/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/kasthaa/LeetCodeC/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kasthaa/LeetCodeC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kasthaa/LeetCodeC/tree/master/0144-binary-tree-preorder-traversal) |
@@ -98,4 +99,12 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kasthaa/LeetCodeC/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/kasthaa/LeetCodeC/tree/master/0496-next-greater-element-i) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kasthaa/LeetCodeC/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kasthaa/LeetCodeC/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
