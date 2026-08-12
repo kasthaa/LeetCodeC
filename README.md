@@ -89,11 +89,13 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kasthaa/LeetCodeC/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kasthaa/LeetCodeC/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/kasthaa/LeetCodeC/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kasthaa/LeetCodeC/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kasthaa/LeetCodeC/tree/master/0240-search-a-2d-matrix-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -107,4 +109,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kasthaa/LeetCodeC/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kasthaa/LeetCodeC/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kasthaa/LeetCodeC/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
