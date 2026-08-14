@@ -2,25 +2,36 @@
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> inorder;
-        stack<TreeNode*> st;
+        TreeNode* cur = root;
 
-        TreeNode* node = root;
+        while (cur != NULL) {
 
-        while (true) {
-            if (node != NULL) {
-                st.push(node);
-                node = node->left;
+            // If there is no left subtree
+            if (cur->left == NULL) {
+                inorder.push_back(cur->val);
+                cur = cur->right;
             }
+
             else {
-                if (st.empty())
-                    break;
+                // Find the inorder predecessor
+                TreeNode* prev = cur->left;
 
-                node = st.top();
-                st.pop();
+                while (prev->right != NULL && prev->right != cur) {
+                    prev = prev->right;
+                }
 
-                inorder.push_back(node->val);
+                // Create a thread
+                if (prev->right == NULL) {
+                    prev->right = cur;
+                    cur = cur->left;
+                }
 
-                node = node->right;
+                // Remove the thread
+                else {
+                    prev->right = NULL;
+                    inorder.push_back(cur->val);
+                    cur = cur->right;
+                }
             }
         }
 
