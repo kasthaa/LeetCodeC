@@ -127,12 +127,14 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kasthaa/LeetCodeC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kasthaa/LeetCodeC/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/kasthaa/LeetCodeC/tree/master/0496-next-greater-element-i) |
+| [2643-row-with-maximum-ones](https://github.com/kasthaa/LeetCodeC/tree/master/2643-row-with-maximum-ones) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kasthaa/LeetCodeC/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/kasthaa/LeetCodeC/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kasthaa/LeetCodeC/tree/master/0240-search-a-2d-matrix-ii) |
+| [2643-row-with-maximum-ones](https://github.com/kasthaa/LeetCodeC/tree/master/2643-row-with-maximum-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
