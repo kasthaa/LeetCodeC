@@ -121,6 +121,7 @@
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kasthaa/LeetCodeC/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/kasthaa/LeetCodeC/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kasthaa/LeetCodeC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kasthaa/LeetCodeC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -129,6 +130,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kasthaa/LeetCodeC/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/kasthaa/LeetCodeC/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kasthaa/LeetCodeC/tree/master/0240-search-a-2d-matrix-ii) |
 ## Monotonic Stack
@@ -147,6 +149,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kasthaa/LeetCodeC/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/kasthaa/LeetCodeC/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kasthaa/LeetCodeC/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
