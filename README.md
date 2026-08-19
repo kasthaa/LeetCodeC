@@ -157,6 +157,7 @@
 | [0496-next-greater-element-i](https://github.com/kasthaa/LeetCodeC/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kasthaa/LeetCodeC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kasthaa/LeetCodeC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kasthaa/LeetCodeC/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/kasthaa/LeetCodeC/tree/master/1539-kth-missing-positive-number) |
 | [2643-row-with-maximum-ones](https://github.com/kasthaa/LeetCodeC/tree/master/2643-row-with-maximum-ones) |
 ## Matrix
@@ -189,6 +190,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/kasthaa/LeetCodeC/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kasthaa/LeetCodeC/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kasthaa/LeetCodeC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kasthaa/LeetCodeC/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/kasthaa/LeetCodeC/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
