@@ -120,6 +120,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/kasthaa/LeetCodeC/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kasthaa/LeetCodeC/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kasthaa/LeetCodeC/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/kasthaa/LeetCodeC/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kasthaa/LeetCodeC/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kasthaa/LeetCodeC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kasthaa/LeetCodeC/tree/master/0662-maximum-width-of-binary-tree) |
@@ -139,6 +140,7 @@
 | [0085-maximal-rectangle](https://github.com/kasthaa/LeetCodeC/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kasthaa/LeetCodeC/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/kasthaa/LeetCodeC/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/kasthaa/LeetCodeC/tree/master/0542-01-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kasthaa/LeetCodeC/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Hash Table
 |  |
@@ -165,6 +167,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/kasthaa/LeetCodeC/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kasthaa/LeetCodeC/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/kasthaa/LeetCodeC/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/kasthaa/LeetCodeC/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/kasthaa/LeetCodeC/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kasthaa/LeetCodeC/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/kasthaa/LeetCodeC/tree/master/0875-koko-eating-bananas) |
@@ -182,6 +185,7 @@
 | [0085-maximal-rectangle](https://github.com/kasthaa/LeetCodeC/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/kasthaa/LeetCodeC/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kasthaa/LeetCodeC/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/kasthaa/LeetCodeC/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kasthaa/LeetCodeC/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kasthaa/LeetCodeC/tree/master/0994-rotting-oranges) |
 | [2643-row-with-maximum-ones](https://github.com/kasthaa/LeetCodeC/tree/master/2643-row-with-maximum-ones) |
